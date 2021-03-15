@@ -1,0 +1,2 @@
+## From task
+GET https://reqres.in/api/users?per_page=100
