@@ -20,7 +20,7 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
     "data",
     "support"
 })
-public class ReqresUser {
+public class ReqresUserApi {
 
     @JsonProperty("page")
     private Integer page;
